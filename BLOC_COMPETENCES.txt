@@ -1,0 +1,255 @@
+
+************* ADAPTER LA POLITIQUE DU SYSTEME D'INFORMATION A LA STRATEGIE DE L'ORGANISATION *************
+
+
+    C.1.1 Modéliser l’architecture métier du système d’information, pour appréhender les flux d’informations métiers de l’organisation.
+    C1.2 Auditer les éléments techniques, organisationnels, voire économiques de l’organisation via une étude d’opportunité technique et financière en termes de données et d’organisation afin d’identifier les besoins fonctionnels des différents acteurs.
+    C1.2 Exploiter les bonnes pratiques et les normes au sein de l’organisation, afin de contrôler et piloter le système d’information de l’organisation.
+    C1.3 Elaborer un schéma directeur informatique en cartographiant le SI, pour aligner le système d’information cible à la stratégie de l’organisation et aux enjeux des métiers.
+
+
+
+************* ADMINISTRER ET OPTIMISER LES DONNEES D'UN SYSTEME D'INFORMATION *************
+
+
+    C2.1 Conduire une analyse des infrastructures, afin d’assurer la qualité, la maintenance et la sécurité des infrastructures.
+    C2.2.1 Concevoir l’architecture d’un système informatique, pour mettre en œuvre des applications autonomes, de micro-services ou distribuées.
+    C2.2.2 Superviser et assurer la maintenance de l’infrastructure, afin d’assurer l’opérationnalité de l’infrastructure.
+    C2.3 Sélectionner les solutions matérielles ou logicielles, pour garantir la disponibilité, l’intégrité et la confidentialité des données.
+
+
+
+************* CONCEVOIR ET DEVELOPPER LA COUCHE APPLICATIVE D'UN SYSTEME D'INFORMATION *************
+
+
+
+    C3.1 Réaliser un dossier d’analyse, de conception pour définir des solutions fiables et pérennes.
+    C3.2 Mettre en œuvre une architecture applicative (MVC, architecture autonome, distribuée, micro-services, ...) pour développer des services applicatifs fiables, de qualité et maintenable.
+    C3.3 Mettre en production les services applicatifs du système d’information après validation, pour assurer la conformité des services applicatifs et une utilisation optimale.
+    C3.4 Concevoir et proposer une solution de supervision adaptée au type et au volumes des données mises en jeu, pour optimiser les performances et anticiper l’évolution des besoins du SI.
+
+
+*************  MANGER UN PROJET DE DEPLOIEMENT DU SYSTEME D'INFORMATION *************
+
+
+    C4.1.1 Déterminer les spécificités techniques et fonctionnelles du projet, afin de délivrer le cahier des charges technique et fonctionnel du projet de conception ou de refonte du système d’information.
+    C4.1.2 Structurer les étapes d’un projet informatique et son cycle de vie, pour assurer la conformité, l’opérationnalité et la pérennité de la conception ou de la refonte du système d’information.
+    C4.2 Elaborer un plan de refonte du projet ou d’amélioration continue, en veillant au respect des normes en vigueur pour contrôler le déploiement du projet dans les normes officielles et reconnues.
+    C4.3 Contrôler les risques du projet, pour garantir la sécurité, la qualité et la pérennité du projet conformément aux règles juridiques et de sécurité informatique.
+    C4.4 Accompagner l’organisation dans la mise en place d’une méthodologie de conduite de changement, afin d’engager les parties prenantes au projet dans les phases de changements inhérentes au sein de leurs activités.
+    C4.5 Piloter les équipes associées au projet informatique, pour optimiser les performances du service et atteindre les objectifs du projet de conception ou de refonte et déploiement du système d’information.
+
+
+*************  ADMINISTRER ET OPTIMISER LE TRAITEMENT DE DONNEES D'UN SYSTEME D'INFORMATION *************
+
+
+    C5.1 Exploiter et surveiller l’activité du système d’information pour administrer les données du système d’information dans le respect des normes en vigueur.
+    C5.2 Mettre en œuvre les techniques d’optimisation de l’exploitation de données, afin d’optimiser les traitements liés aux données du système d’information.
+
+
+
+
+*************************************************************************************************************************************************************************
+
+
+Modéliser l’architecture métier du système d’information pour appréhender les flux d’informations métiers de l’organisation.
+
+Auditer les éléments techniques, organisationnels, voire économiques de l’organisation via une étude d’opportunité technique et financière en terme de données et d’organisation afin d’identifier les besoins fonctionnels des différents acteurs.
+
+Exploiter les bonnes pratiques et les normes au sein de l’organisation afin de contrôler et piloter le système d’information de l’organisation.
+
+Elaborer un schéma directeur informatique pour aligner le système d’information cible à la stratégie de l’organisation et aux enjeux des métiers.
+
+Conduire une analyse des infrastructures afin d’assurer la qualité, la maintenance et la sécurité des infrastructures.
+
+Concevoir l’architecture d’un système informatique pour mettre en œuvre des applications autonomes, micro-services ou distribuées.
+
+Superviser et assurer la maintenance de l’infrastructure afin d’assurer l’opérationnalité de l’infrastructure.
+
+Sélectionner les solutions matérielles ou logicielles pour garantir la disponibilité, l’intégrité et la confidentialité des données.
+
+Réaliser un dossier d’analyse du besoin et de conception pour définir des solutions fiables et pérennes.
+
+Mettre en œuvre une architecture applicative pour développer des services applicatifs fiables, de qualité et maintenable.
+
+Mettre en production les services applicatifs du système d’information après validation pour assurer la conformité des services applicatifs et une utilisation optimale.
+
+Concevoir et proposer une solution de supervision pour optimiser les performances et anticiper l’évolution des besoins du SI.
+
+Déterminer les spécificités techniques et fonctionnelles du projet afin de délivrer le cahier des charges technique et fonctionnel du projet de conception ou de refonte du système d’information.
+
+Structurer les étapes d’un projet informatique et son cycle de vie pour assurer la conformité, l’opérationnalité et la pérennité de la conception ou de la refonte du système d’information.
+
+Elaborer un plan de refonte du projet ou d’amélioration continue, en veillant au respect des normes en vigueur pour contrôler le déploiement du projet dans les normes officielles et reconnues.
+
+Contrôler les risques du projet pour garantir la sécurité, la qualité et la pérennité du projet conformément aux règles juridiques et de sécurité informatique.
+
+Accompagner l’organisation dans la mise en place d’une méthodologie de conduite de changement afin d’engager les parties prenantes au projet dans les phases de changements inhérentes au sein de leurs activités.
+
+Piloter les équipes associées au projet informatique pour optimiser les performances du service et atteindre les objectifs du projet.
+
+Exploiter et surveiller l’activité du système d’information pour administrer les données du système d’information dans le respect des normes en vigueur.
+
+Mettre en œuvre les techniques d’optimisation de l’exploitation de données afin d’optimiser les traitements liés aux données du système d’information.
+
+
+
+Modéliser l’architecture métier du système d’information
+
+    en analysant les processus et services métiers existants,
+    en réalisant une veille et une recherche sur les innovations/évolutions technologiques, stratégiques, sécuritaires,
+    en modélisant les processus métiers à l’aide d’outils, techniques d’analyse,
+
+pour appréhender les flux d’informations métiers de l’organisation.
+
+Auditer les éléments techniques, organisationnels, voire économiques de l’organisation via une étude d’opportunité technique et financière en termes de données et d’organisation afin d’identifier les besoins fonctionnels des différents acteurs.
+
+Exploiter les bonnes pratiques et les normes au sein de l’organisation
+
+    d’après l’existant de l’organisation,
+    d’après les bonnes pratiques en vigueur dans le domaine
+    via l’étude et la mise en œuvre des normes existantes,
+
+afin de contrôler et piloter le système d’information de l’organisation.
+
+Elaborer un schéma directeur informatique
+
+    en cartographiant le SI,
+    en analysant la pertinence des solutions proposées,
+    en tenant compte des contraintes organisationnelles de l’organisation, des attentes éthiques, sociétales et réglementaires,
+    en tenant compte des enjeux de sécurité, qualité de service et traçabilité du système d’information.
+
+pour aligner le système d’information cible à la stratégie de l’organisation et aux enjeux des métiers.
+
+
+
+Conduire une analyse des infrastructures
+
+    en délimitant le périmètre, le type d’architecture, la cible et les interlocuteurs,
+    d’après un mode opératoire, une méthodologie d’analyse,
+    en effectuant des tests, un diagnostic ou une analyse des risques et des menaces,
+
+afin d’assurer la qualité, la maintenance et la sécurité des infrastructures.
+
+Concevoir l’architecture d’un système informatique
+
+    en élaborant l’architecture fonctionnelle des couches systèmes,
+    en développant des programmes système,
+    en appliquant les concepts avancés de la gestion des processus et des ressources,
+    en tenant compte de l’impact environnemental,
+
+pour mettre en œuvre des applications autonomes, de micro-services ou distribuées.
+
+Superviser et assurer la maintenance de l’infrastructure
+
+    en gérant les incidents,
+    en mettant en place des outils de contrôle et de configuration,
+    en assurant le bon fonctionnement des serveurs,
+    en optimisant l’utilisation des ressources et en gérant les utilisateurs, les habilitations,
+
+afin d’assurer l’opérationnalité de l’infrastructure.
+
+Sélectionner les solutions matérielles ou logicielles
+
+    via la mise en place d’un système de gestion de la sécurité informatique,
+    en accord avec les normes et référentiels reconnus,
+    en tenant compte des techniques de protection des données,
+
+pour garantir la disponibilité, l’intégrité et la confidentialité des données.
+
+
+
+
+Réaliser un dossier d’analyse, de conception
+
+    en définissant l’architecture fonctionnelle des applicatifs,
+    en tenant compte des normes de qualité et sécurité informatique, d’écoconception, de l’accessibilité et des bonnes pratiques,
+    en identifiant des procédures, outils, méthodes de conception,
+
+pour définir des solutions fiables et pérennes.
+
+Mettre en œuvre une architecture applicative (MVC, architecture autonome, distribuée, micro-services, ...)
+
+    en utilisant les langages de développement appropriés,
+    en respectant les règles environnementales, les normes et standards en vigueur,
+
+pour développer des services applicatifs fiables, de qualité et maintenable.
+
+Mettre en production les services applicatifs du système d’information après validation
+
+    en suivant les principes du développement et déploiement continu,
+    en réalisant les tests unitaires, fonctionnels, d’intégration et de régression des différentes fonctionnalités du produit,
+    en formant et accompagnant les utilisateurs de façon inclusive,
+
+pour assurer la conformité des services applicatifs et une utilisation optimale.
+
+Concevoir et proposer une solution de supervision
+
+    adaptée au type et au volumes des données mises en jeu,
+    d’après la maturité du projet,
+    en proposant des solutions de restitution de données,
+
+pour optimiser les performances et anticiper l’évolution des besoins du SI.
+
+
+
+Déterminer les spécificités techniques et fonctionnelles du projet
+
+    d’après les composantes techniques des logiciels sélectionnés,
+    en adéquation avec les besoins fonctionnels des métiers, les fonctionnalités des programmes, les flux de données et leurs interactions, 
+    en suivant une conception responsable de service numérique,
+
+afin de délivrer le cahier des charges technique et fonctionnel du projet de conception ou de refonte du système d’information.
+
+Structurer les étapes d’un projet informatique et son cycle de vie
+
+    en tenant compte des exigences de l’organisation en termes de besoins, coûts, délais,…
+    en estimant le budget, les achats à négocier, le retour d’investissement, les ressources à affecter au projet et les indicateurs de performance à mettre en place,
+    en développant des liaisons techniques et fonctionnelles avec les services interlocuteurs,
+
+pour assurer la conformité, l’opérationnalité et la pérennité de la conception ou de la refonte du système d’information.
+
+Elaborer un plan de refonte du projet ou d’amélioration continue, en veillant au respect des normes en vigueur pour contrôler le déploiement du projet dans les normes officielles et reconnues.
+
+Contrôler les risques du projet
+
+    en collaborant avec le service juridique de l’organisation,
+    via des contrôles et une interprétation statistique du risque en termes d’exploitation, vulnérabilités sécuritaires et gestions des incidents,
+    en tenant compte de l’impact environnemental,
+
+pour garantir la sécurité, la qualité et la pérennité du projet conformément aux règles juridiques et de sécurité informatique.
+
+Accompagner l’organisation dans la mise en place d’une méthodologie de conduite de changement
+
+    en cartographiant les acteurs clés,
+    en animant des réunions et des actions de sensibilisation, de formation, d’assistance …, agiles et inclusives,
+    en veillant au respect du cadre juridique – réglementaire (RGPD), à la sécurité, la qualité, l’accessibilité (PSH),
+
+afin d’engager les parties prenantes au projet dans les phases de changements inhérentes au sein de leurs activités.
+
+Piloter les équipes associées au projet informatique 
+
+    en élaborant les rapports d’avancement du projet d’après les objectifs définis,
+    en affectant les tâches par poste selon les processus de travail entre les services, entre les collaborateurs en tenant compte des situations de handicap potentielles dans les aménagements et répartition des tâches,
+    en réalisant le suivi des objectifs des collaborateurs, l’évolution de leurs compétences,
+    en animant des réunions d’étapes et de résolution de problèmes, gestion de conflit le cas échéant,
+
+pour optimiser les performances du service et atteindre les objectifs du projet de conception ou de refonte et déploiement du système d’information.
+
+
+Exploiter et surveiller l’activité du système d’information
+
+    en maintenant un flux de données en temps réel,
+    en améliorant les performances de traitement des données,
+    via la mise en place d’outils d'analyse et de contrôle,
+    d’après le volume de stockage, la gestion des flux, les habilitations…,
+
+pour administrer les données du système d’information dans le respect des normes en vigueur.
+
+Mettre en œuvre les techniques d’optimisation de l’exploitation de données
+
+    en adaptant la visualisation des données aux besoins de l’entreprise et aux règles d’accessibilité,
+    en optimisant l’utilisation des ressources du système, dans le respect des règles d’écoconception, d’économie de la donnée,
+    en supervisant la répartition de la charge de données (calcul, stockage ou flux),
+
+afin d’optimiser les traitements liés aux données du système d’information.

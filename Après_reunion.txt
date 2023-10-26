@@ -1,0 +1,28 @@
+Date ISA 23-04 AAMM
+Liste code iso pays
+Tarif 2 colonnes prix + monnaie + UN
+Comprendre changement tarification
+formater tarification (prix, momaie, kw, min, tarif fixe, tarif variable)
+Mettre en commentaire au dela de 10H
+LDA - export Excel Révéo
+Revoir le libellé et le formater (Mettre le libellé fournisseur en annexe)
+Combien ça devrait me couter. Attention, Kwh/min/ + Cout fixe.
+Largueur colonne
+REV AB en premier (Tarif abonné, tarif non abonné)
+REV_AB_AC_J (filtre par abonné, par type de charge, par plage horaire)
+
+Version : V01 (Premiere saisie de donnée)
+comparer le prix réel avec le prix prévu AB et NA (prix réel sur la facture = cout à la minute soit au kw multiplie par le total kw ou min, prix prévu = prix unitaire 1 + prix unitaire 2)
+prix prévu en kw ou en heure
+0.000
+Faire des conditions sur le tarif si fixe ou variable
+Ajout id.pdc_itnérance comparaison Open Data
+Champs version config
+
+P:\C-RD\2022\IPC-22-006_STAGE_YMB\FB-IDATA_ANALYSE\FB00A\IN\2022-11-22-01_LDA\REVEO
+
+P:\C-RD\2022\IPC-22-006_STAGE_YMB\A-MANAGEMENT\A13\2023-10-09\OUT
+
+https://documentation.abes.fr/sudoc/formats/CodesPays.htm
+Dashboard IT : date maj
+Atelier dashboard pour INC-DAYS

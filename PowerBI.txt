@@ -1,0 +1,37 @@
+
+
+----------------------------------------------------------------------------------------************************************------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------************************************------------------------------------------------------------------------------------------------
+Limites des outils suivants:
+
+Power BI est, au contraire, un outil d'automatisation qui remplace le travail manuel et peut gérer de grandes quantités de données.
+Dans Power BI la limite des visuels par défauts est de 1000, mais le créateur du visuel peut la changer jusqu'à un maximun de 30 000
+
+
+Excel et les tableaux croisés dynamiques sont imbattables lorsqu’il s’agit d’effectuer une analyse ad hoc rapide qui ne sera entretenue que par une seule personne ou un nombre limité des personnes. 
+Power BI est, au contraire, un outil d’automatisation qui remplace le travail manuel et peut gérer de grandes quantités de données.
+
+*  Rapidité et flexibilité : Si vous avez besoin d’une analyse de données rapide, il est plus facile de la réaliser avec Excel.
+*  Actualisation automatique : Power BI est dynamique et constamment enrichi de nouvelles fonctionnalités.
+*  Sécurité de la base de données : Dans Excel, les données sont accessibles par tout le monde. Power BI est plus sécurisé grâce à la validité globale des formules et sa gestion des rôles.
+*  Les interfaces pour les données sources : Power BI les propose à plus grande échelle.
+*  Quantité de données : Un million de lignes sur Excel vs 10 milliards de lignes sur Power BI.
+*  Stabilité : Les formules dans Power BI sont valables de manière globale, les cellules individuelles ne peuvent pas être modifiées. Excel permet de manipuler les cellules individuellement. 
+Des erreurs peuvent survenir si les formules ne sont pas étirées sur toutes les lignes.
+
+Conclusion
+
+Power BI et Excel ne sont pas rivaux: ce n’est pas forcément une question de choix car ils fonctionnent très bien ensemble. 
+Power BI offre généralement plus de fonctionnalités, mais Excel possède également quelques fonctionnalités spécifiques.
+
+Quand utiliser quoi ? Cela dépend de vos besoins.
+
+La plupart des choses que vous pouvez réaliser dans Power BI pourraient également être réalisées dans Excel. 
+Cependant, vous risquez de rencontrer des problèmes matériels et vos graphiques ne seront pas aussi beaux. 
+L’utilisation d’Excel pour le reporting est à peu près la même chose que son utilisation pour la gestion de projet: cela a du sens jusqu’à un certain degré de complexité.
+
+Tant que vos processus et vos demandes sont relativement simples, vous pouvez vous contenter d’Excel. Mais dès que les choses se compliquent et que vous devez vous professionnaliser, vous avez tout intérêt à passer à Power BI.
+
+D’ailleurs, ce n’est pas forcément une question de choix car ils fonctionnent aussi très bien ensemble.

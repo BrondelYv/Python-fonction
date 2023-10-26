@@ -1,0 +1,2 @@
+SELECT Year, Trimestre, nb, sum(nb) as total, sum(Nombre_Incidents), sum(Nombre_Logiciel), Nombre_Sonde, sum(Nombre_Maintenance)
+FROM nombre_tache_annee_trim_mois where Year = '2022' group by Trimestre order by trimestre
